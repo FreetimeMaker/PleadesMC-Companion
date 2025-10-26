@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.PleadesMCCompanion.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">#66000000</item>
+    </style>
+
+    <style name="Widget.Theme.PleadesMCCompanion.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">#66000000</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+</resources>
